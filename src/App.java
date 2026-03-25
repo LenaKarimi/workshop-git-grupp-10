@@ -6,4 +6,5 @@ public class App {
         String choice = new java.util.Scanner(System.in).nextLine();
         if ("1".equals(choice)) System.out.println(Calculator.add(0,0));
     }
+    if("3".equals(choice)) System.out.println(Calculator.mul(a,b));
 }
