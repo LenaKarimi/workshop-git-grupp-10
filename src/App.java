@@ -4,7 +4,7 @@ public class App {
 
         System.out.println("Your choice: ");
         String choice = new java.util.Scanner(System.in).nextLine();
-        if ("1".equals(choice)) System.out.println(Calculator.add(0,0));
+        if ("1".equals(choice)) System.out.println(Calculator.add(a,b);
         Double a = Double.parseDouble(new java.util.Scanner(System.in).nextLine());
         Double b = Double.parseDouble(new java.util.Scanner(System.in).nextLine());
         if ("2".equals(choice)) System.out.println(Calculator.sub(a, b));
